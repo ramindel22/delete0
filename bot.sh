@@ -1,4 +1,4 @@
-token=" " 
+token="365018413:AAErPQKf1MfAfGRzsR43lcNntaW_Dv_S9LI" 
  function start_bot() {
  ./tg -p $2 -s /bot/bot.lua
  
